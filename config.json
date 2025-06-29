@@ -1,0 +1,8 @@
+{
+  "cam0_path": "/dev/cam_front",
+  "cam1_path": "/dev/cam_rear",
+  "yolo_enabled": {
+    "front": true,
+    "rear": true
+  }
+}

@@ -1,0 +1,12 @@
+[Unit]
+Description=CyBerus Flask Web Interface
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/env bash -c 'cd /home/pi/cyberus && ./venv/bin/python app.py'
+WorkingDirectory=/home/pi/cyberus
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target

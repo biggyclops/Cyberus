@@ -1,0 +1,4 @@
+{
+  "stand": {"fl_shoulder": 90, "fl_arm": 90, "fl_wrist": 90, "fr_shoulder": 90, "fr_arm": 90, "fr_wrist": 90,
+             "rl_shoulder": 90, "rl_arm": 90, "rl_wrist": 90, "rr_shoulder": 90, "rr_arm": 90, "rr_wrist": 90 }
+}
